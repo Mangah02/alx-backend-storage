@@ -46,7 +46,3 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * [x] 11. No table for a meeting
 * [x] 12. Average weighted score
 * [x] 13. Average weighted score for all!
-
-## Software engineer
-Javier Andrés Garzón Patarroyo  
-:octocat: [GitHub](https://github.com/javierandresgp/)
