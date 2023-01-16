@@ -1,7 +1,7 @@
 # 0x0D-NoSQL
 :open_file_folder: Specializations - Web Stack programming ― Back-end  
 :bust_in_silhouette: by Emmanuel Turlay, Staff Software Engineer at Cruise and Guillaume, CTO at Holberton school  
-:copyright: **[Holberton School](https://www.holbertonschool.com/)**  
+:copyright: **[alx School](https://https://intranet.alxswe.com//)**  
 :bookmark: 
 
 ## Resources
@@ -51,7 +51,3 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * [x] 13. Regex filter
 * [x] 14. Top students
 * [ ] 15. Log stats - new version
-
-## Software engineer
-Javier Andrés Garzón Patarroyo  
-:octocat: [GitHub](https://github.com/javierandresgp/)
